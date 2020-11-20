@@ -1,0 +1,86 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gbn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gbn-Debug-afbd432bfc396457da31.json",
+					"name" : "gbn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sr-Debug-4e55cf57e8a8f7ecfbc8.json",
+					"name" : "sr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stop_wait::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stop_wait-Debug-a6165529aed4e4be11d1.json",
+					"name" : "stop_wait",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tcp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tcp-Debug-02019b99abba4512f549.json",
+					"name" : "tcp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zippermonkey/CLionProjects/lab2/build",
+		"source" : "/home/zippermonkey/CLionProjects/lab2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

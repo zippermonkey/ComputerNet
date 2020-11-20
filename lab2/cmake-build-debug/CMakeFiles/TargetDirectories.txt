@@ -1,0 +1,6 @@
+/home/zippermonkey/CLionProjects/lab2/cmake-build-debug/CMakeFiles/stop_wait.dir
+/home/zippermonkey/CLionProjects/lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zippermonkey/CLionProjects/lab2/cmake-build-debug/CMakeFiles/gbn.dir
+/home/zippermonkey/CLionProjects/lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zippermonkey/CLionProjects/lab2/cmake-build-debug/CMakeFiles/tcp.dir
+/home/zippermonkey/CLionProjects/lab2/cmake-build-debug/CMakeFiles/sr.dir

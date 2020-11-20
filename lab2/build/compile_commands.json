@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/zippermonkey/CLionProjects/lab2/build",
+  "command": "/usr/bin/c++  -I/home/zippermonkey/CLionProjects/lab2/include -g   -std=c++11 -o CMakeFiles/tcp.dir/src/tcp/TCP.cpp.o -c /home/zippermonkey/CLionProjects/lab2/src/tcp/TCP.cpp",
+  "file": "/home/zippermonkey/CLionProjects/lab2/src/tcp/TCP.cpp"
+},
+{
+  "directory": "/home/zippermonkey/CLionProjects/lab2/build",
+  "command": "/usr/bin/c++  -I/home/zippermonkey/CLionProjects/lab2/include -g   -std=c++11 -o CMakeFiles/tcp.dir/src/tcp/TCPRdtReceiver.cpp.o -c /home/zippermonkey/CLionProjects/lab2/src/tcp/TCPRdtReceiver.cpp",
+  "file": "/home/zippermonkey/CLionProjects/lab2/src/tcp/TCPRdtReceiver.cpp"
+},
+{
+  "directory": "/home/zippermonkey/CLionProjects/lab2/build",
+  "command": "/usr/bin/c++  -I/home/zippermonkey/CLionProjects/lab2/include -g   -std=c++11 -o CMakeFiles/tcp.dir/src/tcp/TCPRdtSender.cpp.o -c /home/zippermonkey/CLionProjects/lab2/src/tcp/TCPRdtSender.cpp",
+  "file": "/home/zippermonkey/CLionProjects/lab2/src/tcp/TCPRdtSender.cpp"
+},
+{
+  "directory": "/home/zippermonkey/CLionProjects/lab2/build",
+  "command": "/usr/bin/c++  -I/home/zippermonkey/CLionProjects/lab2/include -g   -std=c++11 -o CMakeFiles/sr.dir/src/sr/SR.cpp.o -c /home/zippermonkey/CLionProjects/lab2/src/sr/SR.cpp",
+  "file": "/home/zippermonkey/CLionProjects/lab2/src/sr/SR.cpp"
+},
+{
+  "directory": "/home/zippermonkey/CLionProjects/lab2/build",
+  "command": "/usr/bin/c++  -I/home/zippermonkey/CLionProjects/lab2/include -g   -std=c++11 -o CMakeFiles/sr.dir/src/sr/SRRdtReceiver.cpp.o -c /home/zippermonkey/CLionProjects/lab2/src/sr/SRRdtReceiver.cpp",
+  "file": "/home/zippermonkey/CLionProjects/lab2/src/sr/SRRdtReceiver.cpp"
+},
+{
+  "directory": "/home/zippermonkey/CLionProjects/lab2/build",
+  "command": "/usr/bin/c++  -I/home/zippermonkey/CLionProjects/lab2/include -g   -std=c++11 -o CMakeFiles/sr.dir/src/sr/SRRdtSender.cpp.o -c /home/zippermonkey/CLionProjects/lab2/src/sr/SRRdtSender.cpp",
+  "file": "/home/zippermonkey/CLionProjects/lab2/src/sr/SRRdtSender.cpp"
+},
+{
+  "directory": "/home/zippermonkey/CLionProjects/lab2/build",
+  "command": "/usr/bin/c++  -I/home/zippermonkey/CLionProjects/lab2/include -g   -std=c++11 -o CMakeFiles/gbn.dir/src/gbn/GBN.cpp.o -c /home/zippermonkey/CLionProjects/lab2/src/gbn/GBN.cpp",
+  "file": "/home/zippermonkey/CLionProjects/lab2/src/gbn/GBN.cpp"
+},
+{
+  "directory": "/home/zippermonkey/CLionProjects/lab2/build",
+  "command": "/usr/bin/c++  -I/home/zippermonkey/CLionProjects/lab2/include -g   -std=c++11 -o CMakeFiles/gbn.dir/src/gbn/GBNRdtReceiver.cpp.o -c /home/zippermonkey/CLionProjects/lab2/src/gbn/GBNRdtReceiver.cpp",
+  "file": "/home/zippermonkey/CLionProjects/lab2/src/gbn/GBNRdtReceiver.cpp"
+},
+{
+  "directory": "/home/zippermonkey/CLionProjects/lab2/build",
+  "command": "/usr/bin/c++  -I/home/zippermonkey/CLionProjects/lab2/include -g   -std=c++11 -o CMakeFiles/gbn.dir/src/gbn/GBNRdtSender.cpp.o -c /home/zippermonkey/CLionProjects/lab2/src/gbn/GBNRdtSender.cpp",
+  "file": "/home/zippermonkey/CLionProjects/lab2/src/gbn/GBNRdtSender.cpp"
+},
+{
+  "directory": "/home/zippermonkey/CLionProjects/lab2/build",
+  "command": "/usr/bin/c++  -I/home/zippermonkey/CLionProjects/lab2/include -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/stopwait/StopWait.cpp.o -c /home/zippermonkey/CLionProjects/lab2/src/stopwait/StopWait.cpp",
+  "file": "/home/zippermonkey/CLionProjects/lab2/src/stopwait/StopWait.cpp"
+},
+{
+  "directory": "/home/zippermonkey/CLionProjects/lab2/build",
+  "command": "/usr/bin/c++  -I/home/zippermonkey/CLionProjects/lab2/include -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/stopwait/StopWaitRdtReceiver.cpp.o -c /home/zippermonkey/CLionProjects/lab2/src/stopwait/StopWaitRdtReceiver.cpp",
+  "file": "/home/zippermonkey/CLionProjects/lab2/src/stopwait/StopWaitRdtReceiver.cpp"
+},
+{
+  "directory": "/home/zippermonkey/CLionProjects/lab2/build",
+  "command": "/usr/bin/c++  -I/home/zippermonkey/CLionProjects/lab2/include -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/stopwait/StopWaitRdtSender.cpp.o -c /home/zippermonkey/CLionProjects/lab2/src/stopwait/StopWaitRdtSender.cpp",
+  "file": "/home/zippermonkey/CLionProjects/lab2/src/stopwait/StopWaitRdtSender.cpp"
+}
+]
